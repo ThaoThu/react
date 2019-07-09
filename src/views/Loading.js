@@ -1,0 +1,2 @@
+import React from 'react';
+export const Loading = () => <div className="animated fadeIn d-flex justify-content-center align-items-center" style = {{height:'100vh',width : '100vw'}}><img height="50" width="50" className="img-fluid d-block" src = "../assets/img/loading.gif"></img></div>
